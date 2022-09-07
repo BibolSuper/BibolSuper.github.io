@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../vscode"
+		},
+		{
+			"path": "../../Downloads/bibol_files"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
